@@ -1,0 +1,12 @@
+@font-face {
+    font-family: ppt;
+    src: url(../font/PPTelegraf-Regular.otf);
+}
+@font-face {
+    font-family: ppt-Bold;
+    src: url(../font/PPTelegraf-UltraBold.otf);
+}
+@font-face {
+    font-family: ppt-UL;
+    src: url(../font/PPTelegraf-UltraLight.otf);
+}
